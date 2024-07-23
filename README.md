@@ -1,6 +1,9 @@
 # Link Saver
 This repository contains the source code for a Chrome extension that enhances your browsing experience. You can easily install the extension by following the steps below.
 
+![image](https://github.com/user-attachments/assets/eaf94a90-44e6-4b8b-858b-79e8dd281b63)
+
+
 **Installation Steps**
 1. Download the Latest Release
    
